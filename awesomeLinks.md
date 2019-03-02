@@ -21,7 +21,14 @@
 
 ## other tools
 
-## awesome website
+### vim
+
+[Building Vim From source code](https://github.com/Valloric/YouCompleteMe/wiki)
+
+[how to set up a environment for C/C++ in Linux?](https://www.zhihu.com/question/47691414/answer/373700711)
+
+
+### awesome website
 [GitHub](https://github.com/)
 
 [StackOverflow](https://stackoverflow.com/)
