@@ -1,6 +1,5 @@
 ## recommendation
 
-### ACCU
 [ACCU](https://accu.org/)
 
 [CoolShell](https://coolshell.cn/)
